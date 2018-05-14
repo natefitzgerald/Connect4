@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect4UI", "Connect4\Connect4UI.csproj", "{C73CEC19-997A-4683-A3FE-83418C9835A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect4Game", "Connect4Game\Connect4Game.csproj", "{F73D6F2D-F6F4-4701-994A-28621782C52E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C73CEC19-997A-4683-A3FE-83418C9835A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73CEC19-997A-4683-A3FE-83418C9835A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73CEC19-997A-4683-A3FE-83418C9835A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73CEC19-997A-4683-A3FE-83418C9835A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73D6F2D-F6F4-4701-994A-28621782C52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73D6F2D-F6F4-4701-994A-28621782C52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73D6F2D-F6F4-4701-994A-28621782C52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73D6F2D-F6F4-4701-994A-28621782C52E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD0F9172-2B58-403B-A8EA-F54F19C20C96}
+	EndGlobalSection
+EndGlobal
